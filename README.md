@@ -1,5 +1,9 @@
 ## Resources
 
+### Queries
+
+* How Query Engines Work: https://leanpub.com/how-query-engines-work
+
 ### Network
 
 * (QUIC) Better for what and whom? https://www.researchgate.net/publication/318801580_QUIC_Better_for_what_and_for_whom
@@ -13,6 +17,13 @@
 * Distributed Consensus with Raft: https://www.youtube.com/watch?v=RHDP_KCrjUc
 * Raft lecture: https://www.youtube.com/watch?v=YbZ3zDzDnrw
 * The Raft Consensus Algorithm: https://www.youtube.com/watch?v=vYp4LYbnnW8
+* Introduction to Raft: https://www.youtube.com/watch?v=6bBggO6KN_k&feature=youtu.be
+* (C++) Implementing Raft in C++: https://raft.github.io/slides/rustdiego2015.pdf
+* https://www.youtube.com/watch?v=n9VKAKwBj_0
+* Raft explained: https://blog.container-solutions.com/raft-explained-part-1-the-consenus-problem
+* (Rust) Implementing Consensus in Rust: https://www.hyperledger.org/blog/2019/01/11/floating-the-sawtooth-raft-implementing-a-consensus-algorithm-in-rust
+* (Kotlin) Implementing Raft in Kotlin: https://www.youtube.com/watch?v=pNFmreSEXic
+* Instructor's Guide to Raft: https://thesquareplanet.com/blog/instructors-guide-to-raft/
 
 ### Discovery / DHT
 
@@ -26,6 +37,9 @@
 * TinyTorrent: https://www.scs.stanford.edu/17au-cs244b/labs/projects/kaplan-nelson_ma_rachleff.pdf
 * Intro to DHTs: https://www.ietf.org/proceedings/65/slides/plenaryt-2.pdf
 * Building a Chord DHT in Go: https://medium.com/techlog/chord-building-a-dht-distributed-hash-table-in-golang-67c3ce17417b
+* Implementing the Kademlia DHT: https://pub.tik.ee.ethz.ch/students/2006-So/SA-2006-19.pdf
+* Building decentralized systems using DHTs: https://www.youtube.com/watch?v=BCksQYqU5ok
+* DHTs and Self Organizing Networks: http://css.csail.mit.edu/6.824/2014/notes/dht/dht.pdf
 
 ### Storage
 
@@ -54,3 +68,6 @@
 ### Various
 
 * DGraph stuff: https://github.com/dgraph-io
+* Distributed and Secure Systems: https://media.ccc.de/v/cosin-28-distributed_actor_system_with_rust
+* A Deep Dive Into TiKV: https://medium.com/@PingCAP/a-deep-dive-into-tikv-b27989993d19
+* How We Built a Highly Scalable Distributed State Machine: https://blog.bernd-ruecker.com/how-we-built-a-highly-scalable-distributed-state-machine-f2595e3c0422
